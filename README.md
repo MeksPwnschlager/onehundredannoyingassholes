@@ -19,32 +19,31 @@ Upon looking it up, we found that an Attiny25 was actually cheaper, so we went f
 
 [Overflo](https://github.com/overflo23), who owns [hackerspaceshop.com](https://hackerspaceshop.com) sent me a bunch of components to build a prototype. What an incredibly nice man!
 
-It was like Christmas!
+### It was like Christmas!
 ![It was like Christmas!](https://raw.githubusercontent.com/MeksPwnschlager/onehundredannoyingassholes/master/img/overflos_care_package.jpg)
 
 The first PCB was designed by [Amir](https://github.com/kallaballa) in a CAD program and home-made at our local hackerspace [Metalab](http://metalab.at).
 
-We used spraypaint for the mask, which we removed with a LASER-Cutter where we wanted the copper to dissolve.
+### We used spraypaint for the mask, which we removed with a LASER-Cutter where we wanted the copper to dissolve.
 ![Spray](https://raw.githubusercontent.com/MeksPwnschlager/onehundredannoyingassholes/master/img/etching_spray.jpg)
 ![Lazzzored](https://raw.githubusercontent.com/MeksPwnschlager/onehundredannoyingassholes/master/img/etching_lazzzored.jpg)
 
-Mixing the acid:
+### Mixing the acid:
 ![Mixing](https://raw.githubusercontent.com/MeksPwnschlager/onehundredannoyingassholes/master/img/etching_mixing_acid.jpg)
 
-And in it goes!
+### And in it goes!
 ![Nice Warm Bath](https://raw.githubusercontent.com/MeksPwnschlager/onehundredannoyingassholes/master/img/etching_acid_bath.jpg)
 
-Metalab's heater for the acid bath was pretty broken, so we tried to build a new one:
+### Metalab's heater for the acid bath was pretty broken, so we tried to build a new one:
 ![New Heater](https://raw.githubusercontent.com/MeksPwnschlager/onehundredannoyingassholes/master/img/etching_new_heater.jpg)
 
 But that didn't work aswell, so I just sat there with a hot-air-gun to keep it from getting too chilly.
 
 Needless to say, we noticed a mistake in the design right after it was done etching.
-Thankfully this was easily fixable:
+
+### Thankfully this was easily fixable:
 ![Easily fixable](https://raw.githubusercontent.com/MeksPwnschlager/onehundredannoyingassholes/master/img/etching_fixed_prototype.jpg)
 
 We still wanted a proper PCB so we did it all again with a fixed design.
 
-This was the finished Prototype:
-<iframe  title="YouTube video player" width="480" height="390" src="https://www.youtube.com/watch?v=84bH-g-eUzU?autoplay=1" frameborder="0" allowfullscreen></iframe>
-
+[This was the finished Prototype](https://www.youtube.com/watch?v=84bH-g-eUzU)
