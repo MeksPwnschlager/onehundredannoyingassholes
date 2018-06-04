@@ -13,7 +13,7 @@ Piezo Buzzer Throwies which buzz every 15-30 minutes and should last months.
  - SMD CR2032 Battery Hodler
  - Code (`arduino/`)
  - SMD Solder Paste
- - 
+ 
 
 1-1.50€/Piece
 
@@ -38,6 +38,6 @@ Use the included arduino code to flash the ATTiny25 using a POMONA Clip or other
 
 Solder the SMD and normal compontents onto the board.
 
-### Annoy
+### 5. Annoy
 
 Place the battery in the battery holder (duh) and listen to them beep!
