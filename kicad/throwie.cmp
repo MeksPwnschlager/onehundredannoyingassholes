@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Fri 08 Dec 2017 06:12:53 PM CET
+
+BeginCmp
+TimeStamp = /5A2AB741;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = CR2032SMD_FLO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A2AB71B;
+Reference = IC1;
+ValeurCmp = ATTINY25-S;
+IdModule  = SOIC127P798X216-8N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A2AB7A3;
+Reference = SP1;
+ValeurCmp = SPEAKER;
+IdModule  = BUZZER;
+EndCmp
+
+EndListe
