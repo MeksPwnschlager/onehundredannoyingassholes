@@ -28,7 +28,7 @@ For big orders `aliexpress.com` might be one of the cheaper options
 
 ### 2. Order the PCBs
 
-We used `seeedstudio.com`, but `dirtypcbs.com` is also a cheap alternative. Maybe even buy a solder mask to make your life easier!
+We used `seeedstudio.com`, but `dirtypcbs.com` is also a cheap alternative. Maybe even buy a solder stencil to make your life easier!
 
 ### 3. Flash the chips
 
