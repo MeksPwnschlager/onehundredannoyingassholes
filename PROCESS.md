@@ -68,6 +68,6 @@ For the next step we had those made and bought all the other parts. Enjoy this i
 
 Done!
 
-A little later a few former school collegues and me distributed the throwies at our ex-school to wreak destruction, annoyance and havoc there!
+A little later a few former school collegues and me distributed the throwies at our ex-school to wreak destruction, annoyance and havoc there! We even hot-glued magnets on some of the throwies to hide them in particularly evil places :D
 
 ![Distribution](https://raw.githubusercontent.com/MeksPwnschlager/onehundredannoyingassholes/master/img/dist.gif)
