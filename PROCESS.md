@@ -62,7 +62,11 @@ We still wanted a proper PCB so we did it all again with a fixed design.
 
 [Vic](https://metalab.at/wiki/Benutzer:Vic) showed us around KiCAD and designed the final PCB for us! (The files in `kicad/`)
 
-For the next step we had those made and bought all the other parts. Enjoy this incrdibly compressed gif of the production process! (SMD Soldering, Peasant Soldering, etc.)
+
+For the next step we had those made and bought all the other parts. Being multiple people, we were able to parallelise the work splitting it into: Flashing the Chips using a POMONA-Clip, applying the solder paste, baking the PCBs and hand soldering the components.
+
+
+Enjoy this incrdibly compressed gif of the production process! (SMD Soldering, Peasant Soldering, etc.)
 
 ![Production Process](https://raw.githubusercontent.com/MeksPwnschlager/onehundredannoyingassholes/master/img/make.gif)
 
